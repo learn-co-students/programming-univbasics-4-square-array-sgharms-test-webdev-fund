@@ -16,7 +16,7 @@ operator or refer back to the earlier lesson on simple math.
 ## Apply `while` to Iterate Over an Array
 
 To build this method, use the iterator `while` and implement your own logic. Use
-only `while`, `Array`s, and any other previously discussed methods for the
+only `while`, `Array`s, and any other previfsously discussed methods for the
 solution. Don't use the Ruby docs or the internet to find built-in methods or
 code you may not understand yet.
 
